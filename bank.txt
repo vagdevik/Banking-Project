@@ -1,2 +1,2 @@
-Name : AccountNumber : Amount : Type
+Name : AccountNumber : Amount : Type : Date
 asd : 123000 : 12345 : 1 : 2017-12-19
