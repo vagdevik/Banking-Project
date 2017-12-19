@@ -1,4 +1,4 @@
-Using concept of classes and inheritance, write a Python program to implement a banking application that supports three types of accounts: i) Savings, ii) Current and iii) Fixed deposit accounts. Store all data in files. Following tasks should be supported while following rules for each type of account. [25M]
+Using concept of classes and inheritance, write a Python program to implement a banking application that supports three types of accounts: i) Savings, ii) Current and iii) Fixed deposit accounts. Store all data in files. Following tasks should be supported while following rules for each type of account.
 RULES:
 
 (i) Ensure following minimum balances: 
